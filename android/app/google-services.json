@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "716631540372",
+    "project_id": "foodordaring-56011",
+    "storage_bucket": "foodordaring-56011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716631540372:android:4d7d59eac94e0245daaa81",
+        "android_client_info": {
+          "package_name": "com.example.resturant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716631540372-30338816mllbj635d13p4q7ecr1v0mcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9NxhEFGakLPzIOsgYh3RJdOIUqiDGM6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716631540372-30338816mllbj635d13p4q7ecr1v0mcl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "716631540372-dbpni7pmcokloi7d747rt3838kqre3p7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.resturant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
