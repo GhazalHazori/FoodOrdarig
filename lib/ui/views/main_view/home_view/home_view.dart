@@ -218,7 +218,7 @@ import 'package:get/get.dart';
 import 'package:resturant/ui/shared/colors.dart';
 import 'package:resturant/ui/shared/custom_widgets/custom_button_new.dart';
 import 'package:resturant/ui/shared/utlis.dart';
-import 'package:resturant/ui/shared/utlis.dart';
+
 import 'package:resturant/ui/views/main_view/home_view/home_controller.dart';
 import 'package:resturant/ui/views/meal_details_view/meal_datialsnew_view.dart';
 
